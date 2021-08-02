@@ -1,0 +1,10 @@
+.intro, .btn{
+    background-color: #6760fb;
+  }
+  .display-3{
+  font-weight: 700;
+  }
+  .score{
+    display: block;
+    padding-bottom: 8px;
+  }
